@@ -1,0 +1,66 @@
+.section{
+  color: blue;
+  height: 60vh;
+  width: 30%;
+  overflow-y: auto;
+  background-color: red:
+}
+.e-name{
+  margin: 0px 0px 0px 0px;
+  color:green;
+}
+.event{
+  background-color:gray;
+}
+.time{
+  color: purple;
+  margin: 0px 10px 0px 0px;
+}
+.middle{
+  display: inline;
+  padding-left: 0px;
+  padding-right: 400px;
+
+}
+.a:hover{
+  background-color: darkblue;
+  color:red;
+}
+.d:hover{
+  background-color: darkblue;
+  color:red;
+}
+.a{
+  display: block;
+  display: inline;
+  padding: 0px 10px 0px 10px;
+  background-color: green;
+  border-radius: 15px;
+  border-style: 1px solid black;
+  border-width: 1px;
+  margin-right: 35%;
+  margin-left: 4%;
+}
+.b{
+  display: block;
+  display: inline;
+  padding: 0px 0px 0px 0px;
+  text-decoration: underline;
+}
+.bottom{
+  display: inline;
+  padding-left: 0px;
+  left: 0:
+}
+.c{
+  display: block;
+  display: inline;
+  text-decoration: underline;
+  font-size: 5%;
+  margin-right: 45%;
+}
+.d{
+  display: block;
+  display: inline;
+  right: 0px;
+}
