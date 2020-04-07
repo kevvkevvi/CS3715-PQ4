@@ -11,6 +11,7 @@
 }
 .event{
   background-color:silver;
+  border: 3px solid black;
 }
 .time{
   color: purple;
@@ -50,19 +51,20 @@
 .bottom{
   display: inline;
   padding-left: 0px;
-  left: 0:
+  right: 0;
+  width:100%;
 }
 .c{
   display: block;
   display: inline;
   text-decoration: underline;
   font-size: 5%;
-  margin-right: 45%;
+  margin-right: 70%;
 }
 .d{
   display: block;
   display: inline;
-  right: 0px;
+  float: right;
 }
 
 .leftside, .rightside{
