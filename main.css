@@ -78,6 +78,11 @@
   background: gray;
 }
 
+.rightpadding{
+  padding-left: 2vh;
+  padding-right: 2vh;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
