@@ -1,7 +1,7 @@
 .section{
   color: blue;
-  height: 60vh;
-  width: 30%;
+  height: 80%;
+  width: 80%;
   overflow-y: auto;
   background-color: red:
 }
@@ -10,7 +10,7 @@
   color:green;
 }
 .event{
-  background-color:gray;
+  background-color:silver;
 }
 .time{
   color: purple;
