@@ -12,6 +12,7 @@
 .event{
   background-color:silver;
   border: 1px solid black;
+  padding-bottom: 19px;
 }
 .time{
   color: purple;
@@ -51,15 +52,19 @@
 .bottom{
   display: inline;
   padding-left: 0px;
-  right: 0;
   width:100%;
+  right: 0;
+  left: 0;
+
 }
 .c{
   display: block;
   display: inline;
   text-decoration: underline;
   font-size: 5%;
-  margin-right: 70%;
+  float:left;
+  padding-top: 5px;x
+
 }
 .d{
   display: block;
