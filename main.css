@@ -21,7 +21,7 @@
 .middle{
   display: inline;
   padding-left: 0px;
-  padding-right: 400px;
+  padding-bottom: 200px;
 
 }
 .a:hover{
@@ -41,11 +41,10 @@
   border-style: 1px solid black;
   border-width: 1px;
   margin-right: 35%;
-  margin-left: 4%;
+  margin-left: 2%;
 }
 .b{
   display: block;
-  display: inline;
   padding: 0px 0px 0px 0px;
   text-decoration: underline;
 }
@@ -103,6 +102,7 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 20px;
+  margin-left: 4%;
 }
 
 .topnav a:hover {
