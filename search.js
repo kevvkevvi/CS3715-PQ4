@@ -15,3 +15,12 @@ function search() {
     }
   }
 }
+
+function opendesc(num) {
+  document.getElementById(num).innerHTML = "Description: ~~~~~ ~~~ ~~~~~~~ ~~~~~~~ ~~~~~ ~~~~~~~ ~~~~~~ ~~~~~ ~~~~~~ ~~~~~~ ~~~~~~ ~";
+}
+
+function close(num) {
+  document.getElementById(num).innerHTML = ""
+
+}

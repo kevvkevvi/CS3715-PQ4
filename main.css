@@ -3,6 +3,7 @@
   height: 100%;
   width: 80%;
   overflow-y: auto;
+  overflow-x: inherit;
   border: 2px solid black;
 }
 .e-name{
@@ -75,6 +76,9 @@
   display: block;
   display: inline;
   float: right;
+}
+.desc{
+  word-break: break-word;
 }
 
 .leftside, .rightside{
