@@ -18,6 +18,12 @@
   color: purple;
   margin: 0px 10px 0px 0px;
 }
+.location{
+  color: darkblue;
+  margin: 0px 10px 0px 0px;
+  text-decoration: underline;
+}
+
 .middle{
   display: inline;
   padding-left: 0px;
