@@ -16,11 +16,11 @@ function search() {
   }
 }
 
-function opendesc(num) {
-  document.getElementById(num).innerHTML = "Description: ~~~~~ ~~~ ~~~~~~~ ~~~~~~~ ~~~~~ ~~~~~~~ ~~~~~~ ~~~~~ ~~~~~~ ~~~~~~ ~~~~~~ ~";
-}
-
-function close(num) {
-  document.getElementById(num).innerHTML = ""
-
+function opendesc(num){
+var elem = document.getElementById(num);
+  if (elem.innerHTML == ""){
+    document.getElementById(num).innerHTML = "Description: ~~~~~ ~~~ ~~~~~~~ ~~~~~~~ ~~~~~ ~~~~~~~ ~~~~~~ ~~~~~ ~~~~~~ ~~~~~~ ~~~~~~ ~";
+  }else{
+    document.getElementById(num).innerHTML = "";
+  }
 }
