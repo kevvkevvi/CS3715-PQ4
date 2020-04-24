@@ -19,7 +19,7 @@ function search() {
 function opendesc(num){
 var elem = document.getElementById(num);
   if (elem.innerHTML == ""){
-    document.getElementById(num).innerHTML = "Description: ~~~~~ ~~~ ~~~~~~~ ~~~~~~~ ~~~~~ ~~~~~~~ ~~~~~~ ~~~~~ ~~~~~~ ~~~~~~ ~~~~~~ ~";
+    document.getElementById(num).innerHTML = "Description: Hooray!! You have completed your task. You can now stop the timer. ~~~~~ ~~~ ~~~~~~~ ~~~~~~~ ~~~~~ ~~~~~~~ ~~~~~~ ~~~~~ ~~~~~~ ~~~~~~ ~~~~~~ ~";
   }else{
     document.getElementById(num).innerHTML = "";
   }
